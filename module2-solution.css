@@ -1,0 +1,28 @@
+h4{
+	margin-bottom: 50px;
+	font-family: Balsamiq Sans;
+}
+div.box{
+	border: 2px solid black;
+	background-color: #808080;
+	margin:20px ;
+	
+	
+	
+}
+p{	
+	font-family: Balsamiq Sans;
+	background-color: pink;
+	width: 100px;
+	border: 2px solid black;
+	float: right;
+}
+#p2{
+	background-color: #B22222;
+}
+#p3{
+	background-color:#FFE4B5;
+}
+section{
+	font-family: Balsamiq Sans;
+	
